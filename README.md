@@ -9,7 +9,7 @@ This is a web based application developed for  related  Vegetable Farm  based we
 
 *Project Link* -  https://yellow-bay-0558a8a00.2.azurestaticapps.net
 
-*project demo  video link* -
+*project demo  video link* - https://youtu.be/-oNI0HZIm8Q
 
 
 ## Features and Functionalities 😃
