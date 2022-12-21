@@ -5,6 +5,8 @@ This is a web based application developed for  related  Vegetable Farm  based we
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
+*Github Respoistory Link* - https://github.com/vardhanmadiri/FRT-project
+
 *Project Link* -  https://yellow-bay-0558a8a00.2.azurestaticapps.net
 
 *project demo  video link* -
@@ -21,37 +23,8 @@ This is a web based application developed for  related  Vegetable Farm  based we
 
 ## Screenshots
 
-
-
-
-
-   
-
 ### Home -
 ![ps1](https://user-images.githubusercontent.com/118350717/208644520-15f7cf51-345b-425b-bb4e-8f957f3c159d.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### About -
@@ -59,138 +32,16 @@ This is a web based application developed for  related  Vegetable Farm  based we
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Services -
 ![ps3](https://user-images.githubusercontent.com/118350717/208644736-4d038421-1fdc-422b-b2f8-028f54d89d06.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Portfolio -
 ![ps4](https://user-images.githubusercontent.com/118350717/208644892-7a57a605-ff11-4530-93e1-d4ffaec64b4f.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Contact -
 ![ps5](https://user-images.githubusercontent.com/118350717/208645039-74a33338-41ec-4f29-95fa-5402f22c0b8c.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Health Bot -
@@ -198,110 +49,15 @@ This is a web based application developed for  related  Vegetable Farm  based we
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Azure Static Web App -
 ![ps7](https://user-images.githubusercontent.com/118350717/208645419-9f92f699-d51f-40ca-bceb-2de7756dc0b2.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Azure Health Bot -
 ![ps8](https://user-images.githubusercontent.com/118350717/208645547-b6583f63-1d0b-4d71-aa41-ff82e91eeb89.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
 - Bootstrap
